@@ -1,48 +1,74 @@
+html{
+    height: 109%;
+}
+
 body{
 
     margin:0;
+    height: inherit;
+    height: 100%;
 
 }
 
 main{
 
-    margin:5% auto;
-    width: 60%;
+    margin:8% auto 1%;
+    width: 50%;
 }
 
 main p{
     line-height: 180%;
 }
 
-ul{
+nav{
+
+    width: inherit;
+
+}
+nav ul{
+    display: block;
     display: flex;
     list-style: none;
-    width: 100%;
-    margin: 0 15%;
+    width: 43.5%;
+    margin: 0 auto;
+    padding: 0;
 }
 
-li{
+nav li{
     margin: 0 2%;
 }
 
-li a{
+nav a{
 
     color: black;
     text-decoration: none;
+    width: 100%;
 
 }
 
 footer{
 
     background-color: cadetblue;
+    height: inherit;
+    height: 22.5%;
 
+}
+
+footer p{
+    text-align: center;
+}
+
+section{
+
+    margin: 0 auto;
+    width: 9.5%;
 }
 
 #PORF{
 
     display: flex;
     justify-content: space-around;
-    width: 15%;
+    width: 15.5%;
     margin: 3% auto;
 
 }
@@ -55,7 +81,7 @@ footer{
 #Título{
 
     margin: 0 auto;
-    width: 18%;
+    width: 15.5%;
 
 }
 
@@ -67,8 +93,10 @@ footer{
 
 #BTN{
 
-    margin: 20% 0 1%;
-    text-align: center;
+    margin: 0% auto;
+    display: block;
+    width: 7%;
+
 }
 
 #BTN a{

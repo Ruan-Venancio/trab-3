@@ -1,0 +1,2 @@
+<h2>Sobre</h2>
+        <p>Possui graduação em Engenharia Eletrica pela Universidade Federal do Ceará (1998) e mestrado em Engenharia de Teleinformática pela Universidade Federal do Ceará (2005). Atualmente é professor do Instituto Federal de Educação, Ciência e Tecnologia do Ceará. Tem experiência na área de Engenharia Elétrica, com ênfase em Sistemas de Telecomunicações. Atuação nos seguinte temas: Educação, Inclusão Digital, Software Livre, Processamento Digital de Sinais, Sistemas Embarcados.</p>
