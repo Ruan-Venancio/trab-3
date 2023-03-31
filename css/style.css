@@ -8,14 +8,30 @@ header, ul{
     display: flex;
 }
 
-html, body, main{
-    height: 100%;
+h3{
+
+    margin-top: 2% ;
 }
 
 img{
     width: inherit;
     height: inherit;
     width: 100%;
+}
+
+html {
+    height: 100%;
+    min-height: 100%;
+}
+
+body {
+    display: flex;
+    flex-direction: column;
+    min-height: 100%;
+}
+
+footer {
+    margin-top: auto;
 }
 
 header{
@@ -58,9 +74,9 @@ nav a{
 }
 
 main{
-    margin: 5% auto 2%;
+    margin: 2% auto 5%;
     width: 53%;
-    
+    height: 100%;
 }
 
 main p{
@@ -69,8 +85,14 @@ main p{
     line-height: 30px;
 }
 
+main img{
+    display: block;
+    margin: 4% auto;
+}
+
 footer{
     background-color: green;
+    width: 100%;
 }
 
 footer div{
@@ -84,9 +106,10 @@ footer img{
     width: auto;
 }
 
-main img{
-    display: block;
-    margin: 4% auto;
+.bottom_0{
+
+    bottom: 0;
+
 }
 
 .underline::before{

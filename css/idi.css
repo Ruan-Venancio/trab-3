@@ -1,0 +1,10 @@
+#content{
+
+    display: flex;
+    margin-top: 4%;
+    justify-content: space-between;
+}
+.block{
+    height: 278px;
+}
+
