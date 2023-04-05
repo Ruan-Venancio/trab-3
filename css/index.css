@@ -1,0 +1,14 @@
+#Siqueira{
+
+    margin-left: 60px;
+}
+
+#Siqueira img{
+    width: 250px;
+    margin: 0;
+}
+
+main{
+    display: flex;
+    width: 900px;
+}

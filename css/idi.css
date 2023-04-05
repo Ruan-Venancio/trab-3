@@ -4,7 +4,17 @@
     margin-top: 4%;
     justify-content: space-between;
 }
-.block{
-    height: 278px;
+
+#block2{
+    width: 320px;
+
 }
 
+.block{
+    height: 190px;
+    
+}
+
+main{
+    width: 58%;
+}
